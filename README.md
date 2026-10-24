@@ -5,3 +5,6 @@ git checkout -b estilo
 git add .
 git commit -m "Se crea la interfaz"
 git push origin interfaz
+
+git checkout main
+git pull origin main
